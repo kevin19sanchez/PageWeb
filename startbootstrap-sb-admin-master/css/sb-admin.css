@@ -70,6 +70,10 @@ body {
   background-color: #fff;
 }
 
+#cardList{
+  padding:60px 0px;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
